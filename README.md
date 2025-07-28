@@ -9,10 +9,10 @@ I also have experience in **QA Automation**, writing test cases and automating p
 ✨ **Why work with me?**  
 Because I bring not just technical skills, but also a passion for learning, creating, and delivering real results. Let’s make your ideas happen!
 
-## My tech stack
+### My tech stack
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,prisma,trpc,aws,playwright" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mysql,postgresql,prisma,aws,jenkins,docker,git,github,postman,npm,jest,selenium" />
   </a>
 </p>
